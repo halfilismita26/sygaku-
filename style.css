@@ -1,0 +1,23 @@
+.cute{
+    font-size: 30;
+    color: brown;
+    background-color:burlywood;
+    text-align: center;
+    width: auto;
+    height: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+button{
+    background-color: whitesmoke;
+    color: brown;
+    font-size: 15px;
+    border: whitesmoke;
+    padding: 5px;
+}
+
+button:hover{
+    background-color: brown;
+    color: whitesmoke;
+}
